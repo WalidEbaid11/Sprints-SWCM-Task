@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+Walid
 Walid Ebaid
-=======
 Walid Ebaid Abdel Ghaffar
->>>>>>> featureY
