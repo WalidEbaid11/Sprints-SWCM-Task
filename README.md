@@ -3,7 +3,7 @@ Software Configuration Management - Git VCS - Practicing Git
 
 # Software Configuration Management - Git VCS - Practicing Git
 
-![Animated Work in Progress](https://storyset.com/illustration/work-in-progress/pana/animate?share=85112)
+![Animated Work in Progress](https://drive.google.com/uc?id=1DIMIVh6wuiw82Yk22TaaJLaKHtUJr0dL)
 
 ## Practice Git Task
 ### Walid Ebaid Abdel Ghaffar
